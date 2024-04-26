@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-mdpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-hdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-ldpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xxxhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-hdpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-xxhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.quiz.app-main-39:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.quiz.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xxxhdpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-mdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-mdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-xhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xxhdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xxhdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xhdpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-xxhdpi_icon.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/layout_launch_screen.xml.flat",
+        "source": "com.quiz.app-main-39:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-mdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-hdpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-ldpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-ldpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/drawable-land-ldpi_screen.png.flat",
+        "source": "com.quiz.app-main-39:/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.quiz.app-merged_res-37:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.quiz.app-main-39:/mipmap-mdpi/ic_launcher_background.png"
+    }
+]
